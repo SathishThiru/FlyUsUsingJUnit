@@ -1,0 +1,15 @@
+This project uses the following frameworks:
+DataDriver
+Junit
+
+And we used Maven.
+
+The program bascially navigates and books a ticket through Flyus.com. 
+
+Inputs required to fill text boxes in the website were taken from an excel sheet.
+
+Final price of the ticket is fetched from the website and recorded in an excel sheet.
+
+Many small modules were written and tested using Junit.
+
+And the important steps during the ticket booking were taken screenshot.
